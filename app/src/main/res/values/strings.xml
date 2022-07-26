@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Series</string>
+    <string name="edit_note">Enter a note</string>
+    <string name="button_save">Save</string>
 </resources>
